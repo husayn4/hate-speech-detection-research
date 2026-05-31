@@ -29,4 +29,4 @@ amplification dynamics on social media platforms.
 - Measuring Hate Speech corpus
 
 ##Project Timeline
-May 2026 to August 2026 - 18 weeks - 360 hours
+May 2026 to August 2026 - 16 weeks - 320 hours
